@@ -1,0 +1,15 @@
+@import '../../mxins/screens.scss';
+.section{
+  text-align:left;
+  padding:50px 80px;
+}
+.section-light{
+    color:#000;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-align:left;
+    padding:10px 10px;
+    transform: translate(50%, 0%);
+    border-left: #000;
+    width: 50%;
+    line-height: 20px;
+  }

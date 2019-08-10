@@ -1,0 +1,23 @@
+@import '../../mxins/screens.scss';
+.pimg4{
+    background-image:url('../../Images/BackGround8.jpg');
+    height:100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .Footer-ptext{
+    position:absolute;
+    bottom: 6%; 
+    width:100%;
+    text-align:center;
+    color:#000;
+    font-size:27px;
+    letter-spacing:8px;
+    text-transform:uppercase;
+  }
+  .Footer-ptext .Footer-Border{
+    background-color:#111;
+    color:#fff;
+    padding:20px;
+  }

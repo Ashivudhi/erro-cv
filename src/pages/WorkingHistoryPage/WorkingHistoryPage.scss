@@ -1,0 +1,33 @@
+@import '../../mxins/screens.scss';
+.section{
+  text-align:left;
+  padding:50px 80px;
+}
+.pimg3{
+  background-image:url('../../Images/BackGround3.jpg');
+  min-height:50vh;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#workingHistory{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #workingHistory td, #workingHistory th {
+    border: 1px solid #000;
+    padding: 8px;
+  }
+  
+  #workingHistory th:hover {background-color: white;}
+  
+  #workingHistory td {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color:grey;
+    color:black;
+    text-transform:uppercase;
+  }
