@@ -24,31 +24,31 @@ export class SkillsPage extends Component {
                     <tr> 
                         <tr><h2>PROGRAMMING LANGUAGES </h2></tr>
     
-                        <td>HTML 5 <img className="img" src={html} height={80} width={80} /></td>
-                        <td>CSS 3 <img className="img" src={css3} height={70} width={70} /></td>
+                        <td>HTML 5 <img className="img" src={html} height={80} width={80} alt="html" /></td>
+                        <td>CSS 3 <img className="img" src={css3} height={70} width={70} alt="css" /></td>
                      
-                        <td>JAVA <img className="img" src={java} height={80} width={80} /></td>
+                        <td>JAVA <img className="img" src={java} height={80} width={80} alt="java" /></td>
                     
                     
-                        <td>JAVASCRIPT <img className="img" src={javascript} height={70} width={70} /></td>
+                        <td>JAVASCRIPT <img className="img" src={javascript} height={70} width={70} alt="Javascript" /></td>
                         
                     
-                        <td>C# <img className="img" src={csharp} height={70} width={70} /></td>
+                        <td>C# <img className="img" src={csharp} height={70} width={70} alt="C#" /></td>
                         
                      
-                        <td>C++ <img className="img" src={cpp} height={70} width={70} /></td>
+                        <td>C++ <img className="img" src={cpp} height={70} width={70} alt="C++" /></td>
                       
                      
-                        <td>SQL<img className="img" src={sql} height={60} width={60} /></td>
+                        <td>SQL<img className="img" src={sql} height={60} width={60} alt="sQL" /></td>
                         
                     
-                        <td>REACT<img className="img" src={react} height={60} width={60} /></td>
+                        <td>REACTJS<img className="img" src={react} height={60} width={60} alt="reactjs" /></td>
                       
                     
-                        <td>SAP(Efesa) <img className="img" src={sap} height={70} width={70}/></td>
+                        <td>SAP(Efesa) <img className="img" src={sap} height={70} width={70} alt="efesa" /></td>
                      
                      
-                        <td>SCSS <img className="img" src={scss} height={70} width={70}/></td>
+                        <td>SCSS <img className="img" src={scss} height={70} width={70} alt="sass" /></td>
                        
                     </tr>
                 </table>
